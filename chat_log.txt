@@ -1,0 +1,33 @@
+[09:52:28] You: hi
+[09:52:28] Bot: hello, do you need anything
+[09:52:31] You: project
+[09:52:31] Bot: this is a project from karan sir class, how can i help
+[09:52:33] You: nahh
+[09:52:33] Bot: That's interesting! Tell me more.
+
+[09:58:52] You: hi
+[09:58:52] Bot: hello, do you need anything
+[09:58:58] You: projct
+[09:58:58] Bot: that's interesting
+[09:59:01] You: project
+[09:59:01] Bot: this is a project from karan sir class, how can i help
+[09:59:08] You: nahhhh
+[09:59:08] Bot: i understand,how can I help?
+[10:10:36] You: hi
+[10:10:36] Bot: hello, do you need anything
+[23:36:22] You: hi
+[23:36:22] Bot: hello, do you need anything
+[23:36:44] You: wassup
+[23:36:44] Bot: that's interesting
+[23:37:45] You: khe
+[23:37:45] Bot: that's interesting
+[23:37:52] You: "c:\Users\User\Desktop\Karan Sir Test\.venv\Scripts\activate"
+[23:37:52] Bot: i understand,how can I help?
+[10:20:13] You: hi
+[10:20:13] Bot: hello, do you need anything
+[10:20:17] You: project
+[10:20:17] Bot: this is a project from karan sir class, how can i help
+[10:33:04] You: hi
+[10:33:04] Bot: hello, do you need anything
+[10:39:53] You: project
+[10:39:53] Bot: this is a project from karan sir class, how can i help
