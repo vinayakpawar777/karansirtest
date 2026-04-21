@@ -31,3 +31,5 @@
 [10:33:04] Bot: hello, do you need anything
 [10:39:53] You: project
 [10:39:53] Bot: this is a project from karan sir class, how can i help
+[11:16:32] You: hi
+[11:16:32] Bot: Hello! Do you need anything?
